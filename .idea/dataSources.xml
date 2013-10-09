@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1833202120">
+    <data-source source="LOCAL" name="assets7network" product="SQL Anywhere" version="16.0.0.1535" jdbc-version="4.0" driver-name="jConnect (TM) for JDBC (TM)" driver-version="jConnect (TM) for JDBC(TM)/7.07 ESD #5 (Build 26792)/P/EBF20686/JDK 1.6.0/jdbcmain/OPT/Mon Oct 15 11:36:14 PDT 2012" uuid="c093b13c-7189-4190-95eb-7af6bb152970">
+      <extra-name-characters>@#$£¥</extra-name-characters>
+      <identifier-quote-string>&quot;</identifier-quote-string>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.sybase.jdbc4.jdbc.SybDataSource</jdbc-driver>
+      <jdbc-url>jdbc:sybase:Tds:localhost:2638?ServiceName=assets7network</jdbc-url>
+      <user-name>cancosoft</user-name>
+      <user-password>dfc9dfcbdfc4dfc9dfc5dfd9dfc5dfccdfde</user-password>
+      <schema-pattern>assets7network.cancosoft</schema-pattern>
+      <default-dialect>Sybase</default-dialect>
+      <libraries>
+        <library>
+          <url>file://C:/Sybase/jConnect-7_0/classes/jconn4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
