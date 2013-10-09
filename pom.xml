@@ -36,7 +36,7 @@
         <!-- tomcat -->
         <tomcat.version>7.0.42</tomcat.version>
         <!-- cxf -->
-        <cxf.version>2.7.6</cxf.version>
+        <cxf.version>2.7.7</cxf.version>
         <!-- slf4j -->
         <slf4j.version>1.7.5</slf4j.version>
         <!-- log4j -->

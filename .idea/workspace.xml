@@ -2,7 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_hawtbuf_hawtbuf_1_9.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets-web/assets-web.iml" afterPath="$PROJECT_DIR$/assets-web/assets-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/assets_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/assets_web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_api_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_api_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_bundle_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_bundle_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_coloc_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_coloc_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_corba_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_corba_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_object_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_object_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_soap_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_bindings_xml_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_core_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_core_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_databinding_aegis_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_aegis_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_databinding_jaxb_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_databinding_xmlbeans_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_xmlbeans_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_features_clustering_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_features_clustering_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxrs_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_frontend_jaxws_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_frontend_js_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_security_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_frontend_simple_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_javascript_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_management_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_management_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_javascript_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_rs_extension_providers_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_extension_providers_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_rs_extension_search_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_extension_search_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_rs_security_cors_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_security_cors_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_rs_security_oauth2_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_security_oauth2_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_rs_security_oauth_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_security_oauth_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_rs_security_sso_saml_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_security_sso_saml_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_rs_security_xml_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_rs_security_xml_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_transports_http_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_transports_http_hc_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_hc_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_transports_http_jetty_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_jetty_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_transports_jms_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_jms_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_transports_local_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_local_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_transports_udp_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_udp_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_addr_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_mex_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_mex_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_policy_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_rm_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_rm_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_rt_ws_security_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_js_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_common_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_common_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_corba_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_corba_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_java2ws_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_java2ws_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_misctools_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_validator_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_validator_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_misctools_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_wadlto_jaxrs_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_wadlto_jaxrs_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_wsdlto_core_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_wsdlto_core_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_wsdlto_databinding_jaxb_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_wsdlto_databinding_jaxb_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_wsdlto_frontend_javascript_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_wsdlto_frontend_javascript_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_tools_wsdlto_frontend_jaxws_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_tools_wsdlto_frontend_jaxws_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_cxf_wstx_msv_validation_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_cxf_wstx_msv_validation_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_services_sts_cxf_services_sts_core_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_services_sts_cxf_services_sts_core_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_services_ws_discovery_cxf_services_ws_discovery_api_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_services_ws_discovery_cxf_services_ws_discovery_api_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_services_ws_discovery_cxf_services_ws_discovery_service_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_services_ws_discovery_cxf_services_ws_discovery_service_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_services_wsn_cxf_services_wsn_api_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_services_wsn_cxf_services_wsn_api_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_cxf_services_wsn_cxf_services_wsn_core_2_7_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_cxf_services_wsn_cxf_services_wsn_core_2_7_7.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_apache_ws_security_wss4j_1_6_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ws_security_wss4j_1_6_12.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_eclipse_jetty_jetty_continuation_8_1_7_v20120910.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_8_1_12_v20130726.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_eclipse_jetty_jetty_http_8_1_7_v20120910.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_12_v20130726.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_eclipse_jetty_jetty_io_8_1_7_v20120910.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_12_v20130726.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_eclipse_jetty_jetty_security_8_1_7_v20120910.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_8_1_12_v20130726.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_eclipse_jetty_jetty_server_8_1_7_v20120910.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_8_1_12_v20130726.xml" />
+      <change type="MOVED" beforePath="E:\cancosoft\assets\.idea\libraries\Maven__org_eclipse_jetty_jetty_util_8_1_7_v20120910.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_8_1_12_v20130726.xml" />
     </list>
     <ignored path="assets.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +86,7 @@
     <file path="/CheckProjectServiceImpl.java" changelist="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" time="1380117569703" ignored="false" />
     <file path="/CheckRegisterRepositoryTest.java" changelist="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" time="1380115681833" ignored="false" />
     <file path="/a.dummy" changelist="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" time="1380520248922" ignored="false" />
-    <file path="/Dummy.txt" changelist="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" time="1381308938935" ignored="false" />
+    <file path="/Dummy.txt" changelist="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" time="1381308985980" ignored="false" />
     <file path="/CheckProjectServiceTest.java" changelist="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" time="1380170170487" ignored="false" />
     <file path="/pom.xml" changelist="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" time="1381158067784" ignored="false" />
     <file path="/ehcache.xml" changelist="993a6f4a-dad7-435f-8f6e-1de34f9cfd58" time="1381128214218" ignored="false" />
@@ -127,8 +194,8 @@
         <option value="$PROJECT_DIR$/assets-web/src/main/java/com/cancosoft/assets/handset/domain/CheckRegister.java" />
         <option value="$PROJECT_DIR$/assets-web/src/main/resources/ehcache.xml" />
         <option value="$PROJECT_DIR$/assets-web/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/assets-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -147,52 +214,7 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="assets-web" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="assets-web" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="assets" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -278,166 +300,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="errorPage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -450,6 +312,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
@@ -709,7 +572,11 @@
       <created>1381308950968</created>
       <updated>1381308950968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.0.0-SNAPSHOT">
+      <created>1381308988908</created>
+      <updated>1381308988908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -736,7 +603,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45876288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.89862543" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2810606" sideWeight="0.21821305" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -757,7 +624,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3159091" sideWeight="0.33505154" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2810606" sideWeight="0.33505154" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2810606" sideWeight="0.101374574" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.8161512" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="soapUI Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -856,16 +723,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets-web/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets-web/src/main/webapp/WEB-INF/errorPage/500.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="37" selection-end="37" vertical-scroll-proportion="0.072106265" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets-web/src/main/webapp/WEB-INF/errorPage/404.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="23" selection-start="37" selection-end="37" vertical-scroll-proportion="0.072106265" />
@@ -924,13 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="51" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets-web/src/main/java/com/cancosoft/assets/handset/domain/CheckRegister.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="72" selection-start="2306" selection-end="2310" vertical-scroll-proportion="0.65045047">
@@ -957,6 +807,30 @@
     <entry file="file://$PROJECT_DIR$/assets-web/src/main/java/com/cancosoft/assets/handset/service/impl/CheckProjectServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="0.22916667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="45" selection-start="151" selection-end="151" vertical-scroll-proportion="0.21550095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="54" selection-start="1532" selection-end="1532" vertical-scroll-proportion="0.44504505">
           <folding />
         </state>
       </provider>
